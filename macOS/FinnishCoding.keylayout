@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-08-09 at 16:07 (GMT+3)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-08-13 at 12:19 (GMT+3)-->
 <keyboard group="126" id="-17" name="Finnish Coding" maxout="3">
 	<layouts>
 		<layout first="0" last="17" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -471,7 +471,7 @@
 			<key code="31" output="œ"/>
 			<!-- oe -->
 			<key code="32" action="hook"/>
-			<key code="33" action="ringabove"/>
+			<key code="33" output="å"/>
 			<key code="34" action="horn"/>
 			<key code="35" action="dotabove"/>
 			<key code="36" output="&#x000D;"/>
@@ -622,7 +622,7 @@
 			<!-- OE ligature -->
 			<key code="32" output="̉"/>
 			<!-- combining hook -->
-			<key code="33" output="̊"/>
+			<key code="33" output="Å"/>
 			<!-- combining ringabove -->
 			<key code="34" output="̛"/>
 			<!-- combining horn -->
