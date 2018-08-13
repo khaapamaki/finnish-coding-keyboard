@@ -1,0 +1,21 @@
+            ¨       ´       `       ^       ~
+a   U+0061  U+00e4  U+00e1  U+00e0  U+00e2  U+00e3
+e   U+00eb  U+00eb  U+00e9  U+00e8  U+00ea
+i   U+0069  U+00ef  U+00ed  U+00ec  U+00ee
+o   U+006f  U+00f6  U+00f3  U+00f2  U+00f4
+u   U+0075  U+00fc  U+00fa  U+00f9  U+00fb
+y   U+0079  U+00ff  U+00fd
+A   U+0041  U+00c4  U+00c1  U+00c0  U+00c2
+E   U+0045  U+00cb  U+00c9  U+00c8  U+00ca
+I   U+0049  U+00cf  U+00cd  U+00cc  U+00ce
+O   U+004f  U+00d6  U+00d3  U+00d2  U+00d4
+U   U+0055  U+00dc  U+00da  U+00d9  U+00db
+Y   U+0059          U+00dd          
+    U+0020
+ 
+¨   U+00a8
+^   U+005e
+~   U+007e
+´   U+00b4
+`   U+0060
+
