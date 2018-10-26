@@ -183,7 +183,7 @@
 			<key code="7" action="X"/>
 			<key code="8" action="C"/>
 			<key code="9" action="V"/>
-			<key code="10" output="˜"/>
+			<key code="10" output="~"/>
 			<!-- degree -->
 			<key code="11" action="B"/>
 			<key code="12" action="Q"/>
